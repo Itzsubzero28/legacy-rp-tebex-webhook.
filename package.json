@@ -1,9 +1,11 @@
 {
   "name": "legacy-rp-tebex-webhook",
   "version": "1.0.0",
+  "description": "Legacy RP Tebex webhook endpoint for Render",
   "type": "module",
-  "engines":{
+  "engines": {
     "node": ">=18"
+  },
   "scripts": {
     "start": "node server.js"
   },
